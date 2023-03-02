@@ -1,7 +1,7 @@
 {
   "name": "http-server",
   "version": "1.0.0",
-  "description": "Http server application",
+  "description": "http - server application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
